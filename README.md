@@ -20,7 +20,7 @@ This project is a JavaScript implementation of a dynamic particle effect rendere
   - The transparency of the lines varies based on the distance between particles, creating a fading effect as particles move further apart.
 
 # Credits
-This project is not a work of my own imagination. I followed youtube tutorials of <a href="https://chatgpt.com/c/4bd68d59-c267-4683-876c-a45fc0ea1df1">Franks Labrotary</a>
+This project is not a work of my own imagination. I followed youtube tutorials of <a  target="#" href="https://www.youtube.com/watch?v=5dIbK0auaB8">Franks Labrotary</a>
 <br>
 His makes animations using HTML canvas element from scratch and his work as a JavaScript content creator is simply amazing.
 I was amazed by this animation and how visually appealing it was, that too in so minimillistic code. I loved this work of his and his other works too.
