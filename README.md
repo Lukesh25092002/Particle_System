@@ -1,7 +1,13 @@
 # Particles System
 This project is a JavaScript implementation of a dynamic particle effect rendered on an HTML canvas. It creates an animated visual representation using particles that move within the canvas, interacting with each other and forming connections.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6yTg8-uimGqfY5Nmglcwu_q7NYCr-36PCQ&s"></img>
+<div>
+    <img src="./Preview/preview_1.png" width="45%">
+    <img src="./Preview/preview_2.png" width="45%">
+</div>
+
+
+
 
 # Features
 - Particle Dynamics
