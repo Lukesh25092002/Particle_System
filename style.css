@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#canvas1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #0A130E;
+}
